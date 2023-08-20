@@ -6,7 +6,7 @@ Esse foi o último exercício feito na imersãoDev, onde foram elencados os proj
 | -------------  | --- |
 | :sparkles: Nome        | **Certificado ImersãoDev**
 | :label: Tecnologias | html, css, js
-| :rocket: URL         | [https://url-deploy.com.br](https://dougzzzz.github.io/certificard/)
+| :rocket: URL         | [Certificado](https://dougzzzz.github.io/certificard/)
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
